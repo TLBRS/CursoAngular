@@ -1,0 +1,8 @@
+{
+    "verbose": true,
+    "watch": [
+        "src"
+    ],
+    "exec": "npm run tsc && npm start",
+    "ext": "ts"
+  }
